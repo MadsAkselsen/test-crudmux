@@ -1,0 +1,5 @@
+1,Toyota,Corolla,10000
+2,Toyota,Camry,20000
+3,Honda,Civic,150004,
+4,Tesla,Cooler,40000
+5,Tesla,Cooler,40000
